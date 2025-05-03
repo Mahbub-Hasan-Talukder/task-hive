@@ -14,8 +14,13 @@
 A robust task management and project collaboration Flutter application with Supabase integration.
 
 
-> **Download APK and View Screenshots**: 
-https://drive.google.com/drive/folders/1zzEos7D048KUAY6uXgjOg2ztLIBnkE-0
+> **Screenshots**: 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/091d6919-d2d1-4e29-bbe7-664d40be7499" width="220" height="480">
+  <img src="https://github.com/user-attachments/assets/a9d276ed-4f40-4334-b2b4-b67f938e21b0" width="220" height="480">
+  <img src="https://github.com/user-attachments/assets/f25dd44d-4f34-4f37-a93f-19bf99be00fc" width="220" height="480">
+  <img src="https://github.com/user-attachments/assets/6aadb3c4-8d05-4009-a0b9-a1f16376da0f" width="220" height="480">
+</p>
 ## Overview
 
 TASK-HIVE is a comprehensive project and task management solution that enables teams to efficiently collaborate on projects, track progress, and manage workloads. Built with Flutter and backed by Supabase, it offers a seamless experience across multiple platforms.
